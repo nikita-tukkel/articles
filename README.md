@@ -4,6 +4,8 @@
 
 [Семь типов жён](satya/seven-types/seven-types.md)
 
+[Отличие эмоциональных потребностей мужчины и женщины](satya/emotional-difference.md)
+
 [14 вопросов, которые нужно задать до брака](satya/14-questions-before.md)
 
 [Необходимые ингредиенты счастливого брака](satya/happy-marriage-ingredients.md)
