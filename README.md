@@ -27,6 +27,8 @@
 
 # Семинары и доклады Анны Обуховой
 
+[Конспект курса "Стрессоустойчивость команды"](obukhova/stress-resistance/README.md)
+
 [22 стратегии стрессоустойчивости](obukhova/22-stress-resistance.md)
 
 [Утомленные Аджайлом](obukhova/agile-burnout.md)
