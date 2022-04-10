@@ -1,4 +1,4 @@
-# 1/9 Триединый мозг Маклина (Paul MacLean triune brain model)
+# 1/9 Триединый мозг Маклина (Paul MacLean triune brain model) / Анна Обухова
 
 ![](maclean.jpg)
 
